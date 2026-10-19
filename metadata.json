@@ -1,0 +1,6 @@
+{
+  "name": "CodeCanvas",
+  "description": "A visual UI editor for React and Next.js codebases, designed as a Figma for Code MVP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
